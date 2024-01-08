@@ -6,15 +6,15 @@
 
 ## TOP1リポジトリ: https://github.com/freeCodeCamp/freeCodeCamp
 
-説明: freeCodeCamp.orgのオープンソースのコードベースとカリキュラム。無料でコーディングを学ぶ。
+説明: フリーコードキャンプ.orgのオープンソースのコードベースとカリキュラム。無料でコーディングを学びましょう。
 
 ## TOP2リポジトリ: https://github.com/facebook/react
 
-説明: ウェブおよびネイティブユーザーインターフェース用のライブラリ。
+説明: Webとネイティブのユーザーインターフェースのためのライブラリです。
 
 ## TOP3リポジトリ: https://github.com/vercel/next.js
 
-説明: Reactフレームワーク
+説明: リアクトフレームワーク
 
 ## TOP4リポジトリ: https://github.com/facebook/react-native
 
@@ -22,105 +22,105 @@
 
 ## TOP5リポジトリ: https://github.com/justjavac/free-programming-books-zh_CN
 
-説明: :books: 無料の中国語のコンピュータプログラミングの書籍があります。投稿はいつでも歓迎です。
+説明: :books: 無料のコンピュータプログラミングの中国語の書籍は、投稿を歓迎します
 
 ## TOP6リポジトリ: https://github.com/facebook/create-react-app
 
-説明: 1つのコマンドを実行して、モダンなウェブアプリをセットアップします。
+説明: 一つのコマンドを実行して、モダンなWebアプリをセットアップします。
 
-## TOP7リポジトリ: https://github.com/mui/material-ui
-
-説明: MUI Core: 使いやすい基礎となるReactコンポーネント。ずっと無料で利用できます。Googleのマテリアルデザインを実装したMaterial UIも含まれています。
-
-## TOP8リポジトリ: https://github.com/ant-design/ant-design
+## TOP7リポジトリ: https://github.com/ant-design/ant-design
 
 説明: エンタープライズクラスのUIデザイン言語とReact UIライブラリ
 
-## TOP9リポジトリ: https://github.com/storybookjs/storybook
+## TOP8リポジトリ: https://github.com/gothinkster/realworld
 
-説明: ストーリーブックは、UIコンポーネントとページを分離して構築するためのフロントエンドのワークショップです。UIの開発、テスト、およびドキュメンテーションに向けて作られています。
+説明: すべてのデモアプリの母 - React、Angular、Node、Djangoなどで動く模範的なフルスタックのMedium.comクローン
 
-## TOP10リポジトリ: https://github.com/gothinkster/realworld
+## TOP9リポジトリ: https://github.com/oven-sh/bun
 
-説明: すべてのデモアプリの母 - React、Angular、Node、Djangoなどで動作する模範的なフルスタックMedium.comのクローン
+説明: 信じられないほど高速なJavaScriptランタイム、バンドラ、テストランナー、パッケージマネージャー - すべてが1つにまとまっています。
 
-## TOP11リポジトリ: https://github.com/oven-sh/bun
+## TOP10リポジトリ: https://github.com/leonardomso/33-js-concepts
 
-説明: 信じられない程高速なJavaScriptランタイム、バンドラ、テストランナー、パッケージマネージャーが1つに統合されています。
+説明: 📜 開発者が知っておくべき33のJavaScriptの概念。
 
-## TOP12リポジトリ: https://github.com/leonardomso/33-js-concepts
+## TOP11リポジトリ: https://github.com/enaqx/awesome-react
 
-説明: 📜 開発者が知っておくべき33のJavaScriptの概念
+説明: Reactエコシステムに関する素晴らしいもののコレクション
 
-## TOP13リポジトリ: https://github.com/enaqx/awesome-react
+## TOP12リポジトリ: https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 
-説明: リアクトエコシステムに関するすばらしいもののコレクション
+説明: クロスプラットフォームのChatGPT/Gemini UI（Web / PWA / Linux / Win / MacOS）。一つのクリックで、あなた自身のクロスプラットフォームのChatGPT/Geminiアプリを手に入れましょう。
 
-## TOP14リポジトリ: https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+## TOP13リポジトリ: https://github.com/apache/superset
 
-説明: クロスプラットフォームのChatGPT/Gemini UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分専用のクロスプラットフォームChatGPT/Geminiアプリを手に入れましょう。
+説明: Apache Supersetは、データの可視化とデータの探索を行うプラットフォームです。
 
-## TOP15リポジトリ: https://github.com/apache/superset
+## TOP14リポジトリ: https://github.com/gatsbyjs/gatsby
 
-説明: Apache Supersetはデータの可視化とデータの探索プラットフォームです。
+説明: 最高のReactベースのフレームワークで、パフォーマンス、拡張性、セキュリティが組み込まれています。
 
-## TOP16リポジトリ: https://github.com/gatsbyjs/gatsby
+## TOP15リポジトリ: https://github.com/remix-run/react-router
 
-説明: パフォーマンス、スケーラビリティ、セキュリティが組み込まれた最高のReactベースのフレームワーク。
+説明: Reactのための宣言的なルーティング
 
-## TOP17リポジトリ: https://github.com/remix-run/react-router
+## TOP16リポジトリ: https://github.com/facebook/docusaurus
 
-説明: Reactのための宣言型ルーティング
+説明: 簡単に管理できるオープンソースのドキュメントウェブサイト。
 
-## TOP18リポジトリ: https://github.com/facebook/docusaurus
+## TOP17リポジトリ: https://github.com/ionic-team/ionic-framework
 
-説明: メンテナンスが容易なオープンソースのドキュメンテーションウェブサイト。
+説明: HTML、CSS、JavaScriptを使用して、ネイティブ品質のiOS、Android、およびプログレッシブWebアプリを構築するための強力なクロスプラットフォームUIツールキット。
 
-## TOP19リポジトリ: https://github.com/ionic-team/ionic-framework
+## TOP18リポジトリ: https://github.com/meteor/meteor
 
-説明: HTML、CSS、JavaScriptを使用して、ネイティブ品質のiOS、Android、およびプログレッシブWebアプリを構築するための、強力なクロスプラットフォームUIツールキット。
+説明: メテオ、JavaScriptアプリのプラットフォーム
 
-## TOP20リポジトリ: https://github.com/meteor/meteor
+## TOP19リポジトリ: https://github.com/typescript-cheatsheets/react
 
-説明: Meteorは、JavaScriptのアプリケーションプラットフォームです。
+説明: 経験豊富なReact開発者がTypeScriptを始めるためのチートシート
 
-## TOP21リポジトリ: https://github.com/typescript-cheatsheets/react
+## TOP20リポジトリ: https://github.com/vercel/hyper
 
-説明: 経験豊富なReact開発者のためのチートシートを使って、TypeScriptを始める方法
+説明: Web技術をベースに構築されたターミナル
 
-## TOP22リポジトリ: https://github.com/vercel/hyper
+## TOP21リポジトリ: https://github.com/Asabeneh/30-Days-Of-JavaScript
 
-説明: ウェブ技術を利用して構築されたターミナル
+説明: 「30日間のJavaScriptプログラミングチャレンジ」は、30日でJavaScriptプログラミング言語を学ぶためのステップバイステップのガイドです。このチャレンジには100日以上かかる場合もありますので、自分のペースで進めてください。次のビデオも参考になるかもしれません：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
-## TOP23リポジトリ: https://github.com/shadcn-ui/ui
+## TOP22リポジトリ: https://github.com/styled-components/styled-components
 
-説明: 美しくデザインされたコンポーネントは、アプリにコピー＆ペーストできます。アクセス可能で、カスタマイズ可能。オープンソースです。
+説明: コンポーネント時代のためのビジュアルプリミティブ。ES6とCSSのベストビットを活用して、ストレスなくアプリをスタイリングしてください 💅
 
-## TOP24リポジトリ: https://github.com/Asabeneh/30-Days-Of-JavaScript
+## TOP23リポジトリ: https://github.com/streamich/react-use
 
-説明: 30日間のJavaScriptプログラミングチャレンジは、30日間でJavaScriptプログラミング言語を学ぶためのステップバイステップガイドです。このチャレンジは100日以上かかる場合もありますので、ご自身のペースに従ってください。また、以下の動画も参考になるかもしれません: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+説明: React Hooks（フック）- 👍
 
-## TOP25リポジトリ: https://github.com/styled-components/styled-components
-
-説明: コンポーネントの時代のためのビジュアルプリミティブ。ES6とCSSの最良の要素を使用して、ストレスなくアプリをスタイリングしてください 💅
-
-## TOP26リポジトリ: https://github.com/streamich/react-use
-
-説明: リアクトフックス — 👍
-
-## TOP27リポジトリ: https://github.com/brillout/awesome-react-components
+## TOP24リポジトリ: https://github.com/brillout/awesome-react-components
 
 説明: Reactコンポーネントとライブラリのキュレーションリスト。
 
-## TOP28リポジトリ: https://github.com/pmndrs/zustand
+## TOP25リポジトリ: https://github.com/pmndrs/zustand
 
-説明: 🐻 Reactにおける状態管理の必須アイテム
+説明: 🐻 Reactにおける状態管理の必需品
 
-## TOP29リポジトリ: https://github.com/react-hook-form/react-hook-form
+## TOP26リポジトリ: https://github.com/react-hook-form/react-hook-form
 
-説明: 📋フォームの状態管理とバリデーションのためのReact Hooks（Web + React Native）
+説明: 📋 フォームの状態管理とバリデーションのためのReact Hooks（Web + React Native）
 
-## TOP30リポジトリ: https://github.com/TanStack/query
+## TOP27リポジトリ: https://github.com/TanStack/query
 
-説明: 🤖 強力な非同期状態管理、サーバー状態のユーティリティ、Web用データフェッチングです。TS/JS、React Query、Solid Query、Svelte Query、Vue Queryに対応しています。
+説明: 🤖 強力な非同期状態管理、サーバーステートユーティリティ、そしてWeb用データ取得機能です。TS/JS、React Query、Solid Query、Svelte Query、Vue Queryに対応しています。
+
+## TOP28リポジトリ: https://github.com/FreeCodeCampChina/freecodecamp.cn
+
+説明: FCC中国はオープンソースのコードベースとカリキュラムを提供しています。コーディングを学び、非営利団体を支援しましょう。
+
+## TOP29リポジトリ: https://github.com/evanw/esbuild
+
+説明: ウェブ向けの非常に高速なバンドラー
+
+## TOP30リポジトリ: https://github.com/preactjs/preact
+
+説明: ⚛️ 同じモダンなAPIを持つ、3kBの高速なReactの代替です。コンポーネントと仮想DOM。
 
